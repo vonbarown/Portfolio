@@ -25,18 +25,6 @@ export const ExternalLinks = () => {
             icon={["fab", "linkedin"]}
           />
         </a>
-        <a
-          href="https://docs.google.com/document/d/1F_-TJfSk8PEa7cDVMf1vUb3595CzSyY7PJDNkzcnTz4/edit?usp=sharing"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <FontAwesomeIcon
-            className="fa-icon footer-icon resume"
-            icon={["fas", "file"]}
-          >
-            <span class="toolTipText">About</span>
-          </FontAwesomeIcon>
-        </a>
       </div>
     </div>
   );
